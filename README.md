@@ -1,7 +1,9 @@
 #### About Me
 Hi, I'm Ayala. I am currently studing Computer Science in Maalot Yerushalayim.
-- I am learning C# and Python, and I hope to learn SQL
+- Orginally from Silicon Valley (likely why I like programming so much)
+- Right now, I am learning C# and Python, and I hope to learn SQL
 - Reading and drawing are two of my hobbies
+
 
 <!---
 aidelkite/aidelkite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
