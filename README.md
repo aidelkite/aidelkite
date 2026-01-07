@@ -1,4 +1,4 @@
-<img width="1084" height="140" object-fit: cover alt="Kosel" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHBzAoigsjFnepRzSOEdKnr6EuCf5oOuPKWxa18CK4vLoI04xaPcZCwkdy8eHGPwnzXjLBA&s" />
+<img width="1084" height="100" object-fit: cover alt="Kosel" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHBzAoigsjFnepRzSOEdKnr6EuCf5oOuPKWxa18CK4vLoI04xaPcZCwkdy8eHGPwnzXjLBA&s" />
 
 
 ## About Me
