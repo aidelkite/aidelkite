@@ -1,6 +1,6 @@
-## About Me
+#### About Me
 Hi, I'm Ayala. I am currently studing Computer Science in Maalot Yerushalayim.
-# Languages
+##### Languages
 I am learning C# and Python, and I hope to learn SQL
 
 <!---
