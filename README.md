@@ -1,6 +1,3 @@
-<img width="1084" height="100" object-fit: cover alt="Kosel" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHBzAoigsjFnepRzSOEdKnr6EuCf5oOuPKWxa18CK4vLoI04xaPcZCwkdy8eHGPwnzXjLBA&s" />
-
-
 ## About Me
 Hi, I'm Ayala. I am currently studing Computer Science in Maalot Yerushalayim.
 - Orginally from Silicon Valley
